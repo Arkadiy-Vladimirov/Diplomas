@@ -1,2 +1,2 @@
 # Diplomas
-the file contatins some of my diplomas
+The folder contatins some of my diplomas
